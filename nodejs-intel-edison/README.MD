@@ -1,3 +1,5 @@
+(https://travis-ci.org/Addteq/hipchat-api-examples.svg)
+
 ![Demo](https://github.com/Addteq/hipchat-api-examples/raw/master/nodejs-intel-edison/animated.gif)
 
 # Generate personal token for hipchat
