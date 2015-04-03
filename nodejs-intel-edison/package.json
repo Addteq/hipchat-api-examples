@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-intel-edison",
+  "version": "0.0.1",
+  "description": "NodeJS + Intel Edison + Hipchat Example",
+  "main": "blinky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Addteq/hipchat-api-examples.git"
+  },
+  "keywords": [
+    "hipchat",
+    "intel-edison"
+  ],
+  "author": "Addteq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Addteq/hipchat-api-examples/issues"
+  },
+  "homepage": "https://github.com/Addteq/hipchat-api-examples",
+  "dependencies": {
+    "cylon": "^0.22.2",
+    "hipchatter": "^0.2.0"
+  }
+}
