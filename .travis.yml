@@ -5,4 +5,4 @@ node_js:
   - 0.10
 env:
   - TEST_DIR=nodejs-intel-edison
-script: cd $TEST_DIR && npm-install
+script: cd $TEST_DIR && npm install
